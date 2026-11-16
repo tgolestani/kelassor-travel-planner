@@ -1,0 +1,11 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="22.5" height="22.5" viewBox="0 0 22.5 22.5" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="calendar-month">
+<path id="Vector" d="M3.75 6.5625C3.75 6.06522 3.94754 5.5883 4.29917 5.23667C4.65081 4.88504 5.12772 4.6875 5.625 4.6875H16.875C17.3723 4.6875 17.8492 4.88504 18.2008 5.23667C18.5525 5.5883 18.75 6.06522 18.75 6.5625V17.8125C18.75 18.3098 18.5525 18.7867 18.2008 19.1383C17.8492 19.49 17.3723 19.6875 16.875 19.6875H5.625C5.12772 19.6875 4.65081 19.49 4.29917 19.1383C3.94754 18.7867 3.75 18.3098 3.75 17.8125V6.5625Z" stroke-width="1.58203" stroke-linecap="round" stroke-linejoin="round" stroke="#5C5C5C"/>
+<path id="Vector_2" d="M15 2.8125V6.5625" stroke-width="1.58203" stroke-linecap="round" stroke-linejoin="round" stroke="#5C5C5C"/>
+<path id="Vector_3" d="M7.5 2.8125V6.5625" stroke-width="1.58203" stroke-linecap="round" stroke-linejoin="round" stroke="#5C5C5C"/>
+<path id="Vector_4" d="M3.75 10.3125H18.75" stroke-width="1.58203" stroke-linecap="round" stroke-linejoin="round" stroke="#5C5C5C"/>
+<path id="Vector_5" d="M7.5 13.125V16.875" stroke-width="1.58203" stroke-linecap="round" stroke-linejoin="round" stroke="#5C5C5C"/>
+<path id="Vector_6" d="M11.25 13.125V16.875" stroke-width="1.58203" stroke-linecap="round" stroke-linejoin="round" stroke="#5C5C5C"/>
+<path id="Vector_7" d="M15 13.125V16.875" stroke-width="1.58203" stroke-linecap="round" stroke-linejoin="round" stroke="#5C5C5C"/>
+</g>
+</svg>
